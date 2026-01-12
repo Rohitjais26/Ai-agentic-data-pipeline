@@ -1,0 +1,7 @@
+lead_id,full_name,age,gender,state,district,language,education_level,skills_interest,phone,email,has_whatsapp,consent_status,preferred_channel,socio_economic_band,benefit_score,cluster_id,current_stage,drop_reason
+L0026,Sanjay Nair,18,Male,Bihar,Muzaffarpur,Hindi,Undergraduate,"Sales, Tally",9000000026,leadl0026@example.com,Y,Consented,Call,Mid,55,B-Service,Contacted,
+L0141,Shreya Chatterjee,21,Female,Bihar,Purnia,Hindi,Undergraduate,"App Development, Digital Marketing, MS Office",9000000141,leadl0141@example.com,Y,Consented,Email,Low,78,A-Tech,Dropped,No response
+L0146,Anjali Sharma,25,Female,Bihar,Purnia,Hindi,Undergraduate,"App Development, Data Entry, Graphic Design",9000000146,leadl0146@example.com,Y,Consented,WhatsApp,Mid,69,A-Tech,Verified,
+L0262,Rahul Yadav,23,Male,Bihar,Patna,Hindi,Undergraduate,"Python, Sales, Web Development",9000000262,leadl0262@example.com,Y,Consented,SMS,Mid,72,A-Tech,New,
+L0329,Vivaan Reddy,27,Male,Bihar,Patna,Hindi,Undergraduate,"Customer Support, English Speaking",9000000329,leadl0329@example.com,Y,Consented,SMS,Mid,68,B-Service,New,
+L0450,Nikhil Iyer,23,Male,Bihar,Muzaffarpur,Hindi,Undergraduate,"App Development, Sales",9000000450,leadl0450@example.com,Y,Consented,SMS,Low,72,A-Tech,Dropped,Lost interest

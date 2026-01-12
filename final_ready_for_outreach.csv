@@ -1,0 +1,313 @@
+lead_id,full_name,age,gender,state,district,language,education_level,skills_interest,phone,email,has_whatsapp,consent_status,preferred_channel,socio_economic_band,benefit_score,cluster_id,current_stage,drop_reason,age_group,priority,priority_rank,user_status
+L0161,Aarav Patel,26,Male,Karnataka,Mangaluru,Kannada,10th Pass,"Accounting, Data Entry, Web Development",9000000161,leadl0161@example.com,Y,Consented,Email,Low,96,C-HighNeed,Interested,,26+,High,1,Active
+L0328,Aman Patel,28,Male,Madhya Pradesh,Bhopal,Hindi,12th Pass,"MS Office, Python",9000000328,leadl0328@example.com,Y,Consented,Call,Low,95,C-HighNeed,Interested,,26+,High,1,Active
+L0312,Rahul Patel,28,Male,Maharashtra,Mumbai Suburban,Marathi,10th Pass,"Electrical, Python",9000000312,leadl0312@example.com,Y,Consented,WhatsApp,Low,92,C-HighNeed,Verified,,26+,High,1,Active
+L0084,Meera Verma,24,Female,Rajasthan,Udaipur,Hindi,10th Pass,"Graphic Design, Sales",9000000084,leadl0084@example.com,Y,Consented,SMS,Low,91,B-Service,Enrolled,,22-25,High,1,Active
+L0177,Manish Chatterjee,28,Male,Andhra Pradesh,Tirupati,Telugu,Diploma,"Data Entry, English Speaking, MS Office",9000000177,leadl0177@example.com,Y,Consented,SMS,Low,91,B-Service,Interested,,26+,High,1,Active
+L0400,Sanjay Khan,28,Male,Punjab,Ludhiana,Punjabi,12th Pass,"App Development, Web Development",9000000400,leadl0400@example.com,Y,Consented,Email,Low,91,C-HighNeed,Contacted,,26+,High,1,Active
+L0032,Nikhil Reddy,21,Male,Punjab,Amritsar,Punjabi,12th Pass,Data Entry,9000000032,leadl0032@example.com,Y,Consented,Call,Low,90,C-HighNeed,Interested,,18-21,High,1,Active
+L0049,Vikram Reddy,20,Male,Andhra Pradesh,Tirupati,Telugu,10th Pass,Graphic Design,9000000049,leadl0049@example.com,Y,Consented,WhatsApp,Low,90,C-HighNeed,Contacted,,18-21,High,1,Active
+L0075,Aarav Reddy,25,Male,Uttar Pradesh,Lucknow,Hindi,12th Pass,"Python, Web Development",9000000075,leadl0075@example.com,Y,Consented,Call,Low,90,C-HighNeed,Registered,,22-25,High,1,Active
+L0151,Kunal Das,21,Male,Gujarat,Surat,Gujarati,10th Pass,"App Development, Sales",9000000151,leadl0151@example.com,Y,Consented,Email,Low,90,B-Service,Contacted,,18-21,High,1,Active
+L0153,Meera Chatterjee,24,Female,Punjab,Bathinda,Punjabi,Diploma,"Python, Sales, Tally",9000000153,leadl0153@example.com,Y,Consented,SMS,Low,90,A-Tech,Enrolled,,22-25,High,1,Active
+L0402,Aarav Mehta,26,Male,Haryana,Panipat,Hindi,10th Pass,"Data Entry, Healthcare Assistant",9000000402,leadl0402@example.com,Y,Consented,Call,Low,90,C-HighNeed,Interested,,26+,High,1,Active
+L0066,Siddharth Gupta,22,Male,Odisha,Bhubaneswar,Odia,10th Pass,"Data Entry, Electrical",9000000066,leadl0066@example.com,Y,Consented,Call,Low,89,C-HighNeed,Registered,,22-25,High,1,Active
+L0113,Diya Verma,23,Female,Andhra Pradesh,Guntur,Telugu,Diploma,"Graphic Design, Python, Retail",9000000113,leadl0113@example.com,Y,Consented,Email,Low,89,A-Tech,Registered,,22-25,High,1,Active
+L0119,Riya Nair,24,Female,Haryana,Rohtak,Hindi,10th Pass,"Accounting, Digital Marketing",9000000119,leadl0119@example.com,Y,Consented,SMS,Low,89,C-HighNeed,Verified,,22-25,High,1,Active
+L0331,Nandini Iyer,25,Female,Gujarat,Surat,Gujarati,10th Pass,"Digital Marketing, Python, Sales",9000000331,leadl0331@example.com,Y,Consented,SMS,Low,89,B-Service,Contacted,,22-25,High,1,Active
+L0495,Aarav Nair,21,Male,Andhra Pradesh,Guntur,Telugu,Diploma,MS Office,9000000495,leadl0495@example.com,Y,Consented,SMS,Low,89,C-HighNeed,Enrolled,,18-21,High,1,Active
+L0241,Aditya Patel,21,Male,Haryana,Gurugram,Hindi,12th Pass,Web Development,9000000241,leadl0241@example.com,Y,Consented,Call,Low,88,C-HighNeed,Interested,,18-21,High,1,Active
+L0253,Pooja Sharma,18,Female,Gujarat,Surat,Gujarati,Diploma,English Speaking,9000000253,leadl0253@example.com,Y,Consented,SMS,Low,88,B-Service,Contacted,,18-21,High,1,Active
+L0465,Anjali Nair,18,Female,West Bengal,Kolkata,Bengali,10th Pass,Web Development,9000000465,leadl0465@example.com,Y,Consented,WhatsApp,Low,88,C-HighNeed,Verified,,18-21,High,1,Active
+L0037,Sneha Sharma,23,Female,Madhya Pradesh,Gwalior,Hindi,Undergraduate,"Customer Support, Web Development",9000000037,leadl0037@example.com,Y,Consented,Call,Low,87,A-Tech,Verified,,22-25,High,1,Active
+L0128,Priya Khan,28,Female,Telangana,Hyderabad,Telugu,12th Pass,Python,9000000128,leadl0128@example.com,Y,Consented,SMS,Low,87,C-HighNeed,Contacted,,26+,High,1,Active
+L0149,Aman Patel,18,Male,Punjab,Ludhiana,Punjabi,Diploma,"Accounting, App Development, Retail",9000000149,leadl0149@example.com,Y,Consented,Email,Low,87,A-Tech,New,,18-21,High,1,Active
+L0300,Aditya Iyer,27,Male,Kerala,Thiruvananthapuram,Malayalam,12th Pass,"Digital Marketing, Electrical, Retail",9000000300,leadl0300@example.com,Y,Consented,Call,Low,87,B-Service,New,,26+,High,1,Active
+L0303,Manish Chatterjee,26,Male,Madhya Pradesh,Indore,Hindi,Diploma,"English Speaking, Graphic Design, MS Office",9000000303,leadl0303@example.com,Y,Consented,Call,Low,87,B-Service,Enrolled,,26+,High,1,Active
+L0362,Meera Yadav,28,Female,Rajasthan,Jaipur,Hindi,10th Pass,"Accounting, Healthcare Assistant",9000000362,leadl0362@example.com,Y,Consented,Email,Low,87,C-HighNeed,Interested,,26+,High,1,Active
+L0444,Rahul Iyer,22,Male,Gujarat,Rajkot,Gujarati,Diploma,MS Office,9000000444,leadl0444@example.com,Y,Consented,WhatsApp,Low,87,C-HighNeed,Interested,,22-25,High,1,Active
+L0071,Rohan Jain,25,Male,Maharashtra,Aurangabad,Marathi,Diploma,"MS Office, Sales",9000000071,leadl0071@example.com,Y,Consented,Email,Low,86,B-Service,Interested,,22-25,High,1,Active
+L0140,Nandini Gupta,26,Female,Karnataka,Mangaluru,Kannada,12th Pass,Digital Marketing,9000000140,leadl0140@example.com,Y,Consented,WhatsApp,Low,86,C-HighNeed,Verified,,26+,High,1,Active
+L0162,Aanya Singh,28,Female,Tamil Nadu,Coimbatore,Tamil,10th Pass,App Development,9000000162,leadl0162@example.com,Y,Consented,Email,Low,86,C-HighNeed,Contacted,,26+,High,1,Active
+L0343,Priya Yadav,27,Female,Odisha,Sambalpur,Odia,12th Pass,App Development,9000000343,leadl0343@example.com,Y,Consented,Call,Low,86,C-HighNeed,New,,26+,High,1,Active
+L0485,Nandini Khan,28,Female,Maharashtra,Aurangabad,Marathi,12th Pass,"Tally, Web Development",9000000485,leadl0485@example.com,Y,Consented,WhatsApp,Low,86,C-HighNeed,Registered,,26+,High,1,Active
+L0489,Arjun Verma,27,Male,Kerala,Kollam,Malayalam,10th Pass,"MS Office, Web Development",9000000489,leadl0489@example.com,Y,Consented,Call,Low,86,C-HighNeed,Enrolled,,26+,High,1,Active
+L0092,Arjun Nair,27,Male,Tamil Nadu,Tiruchirappalli,Tamil,10th Pass,"Healthcare Assistant, Retail, Sales",9000000092,leadl0092@example.com,Y,Consented,WhatsApp,Low,85,B-Service,Interested,,26+,High,1,Active
+L0171,Pooja Jain,19,Female,Kerala,Kollam,Malayalam,12th Pass,"Accounting, Python",9000000171,leadl0171@example.com,Y,Consented,WhatsApp,Low,85,C-HighNeed,New,,18-21,High,1,Active
+L0449,Aman Singh,22,Male,Bihar,Gaya,Hindi,12th Pass,"Customer Support, MS Office",9000000449,leadl0449@example.com,Y,Consented,Email,Low,85,B-Service,Contacted,,22-25,High,1,Active
+L0050,Diya Yadav,19,Female,Tamil Nadu,Salem,Tamil,10th Pass,Tally,9000000050,leadl0050@example.com,Y,Consented,Call,Low,84,C-HighNeed,Registered,,18-21,High,1,Active
+L0067,Aditya Gupta,19,Male,Telangana,Karimnagar,Telugu,Postgraduate,"Graphic Design, Web Development",9000000067,leadl0067@example.com,Y,Consented,WhatsApp,Low,84,A-Tech,Enrolled,,18-21,High,1,Active
+L0104,Ritesh Nair,19,Male,Odisha,Cuttack,Odia,Undergraduate,"Data Entry, English Speaking",9000000104,leadl0104@example.com,Y,Consented,WhatsApp,Low,84,B-Service,Contacted,,18-21,High,1,Active
+L0118,Vivaan Patel,20,Male,West Bengal,Darjeeling,Bengali,10th Pass,"App Development, Graphic Design",9000000118,leadl0118@example.com,Y,Consented,Email,Low,84,C-HighNeed,Interested,,18-21,High,1,Active
+L0127,Ritesh Verma,24,Male,Bihar,Muzaffarpur,Hindi,Diploma,"Data Entry, Digital Marketing, Python",9000000127,leadl0127@example.com,Y,Consented,Call,Low,84,A-Tech,Interested,,22-25,High,1,Active
+L0185,Siddharth Gupta,21,Male,Haryana,Karnal,Hindi,Postgraduate,"Accounting, Python, Web Development",9000000185,leadl0185@example.com,Y,Consented,WhatsApp,Low,84,A-Tech,Verified,,18-21,High,1,Active
+L0214,Priya Mehta,27,Female,Maharashtra,Mumbai Suburban,Marathi,Diploma,"MS Office, Retail",9000000214,leadl0214@example.com,Y,Consented,Email,Low,84,B-Service,Contacted,,26+,High,1,Active
+L0275,Sakshi Verma,23,Female,Gujarat,Rajkot,Gujarati,Postgraduate,"Accounting, App Development, Retail",9000000275,leadl0275@example.com,Y,Consented,WhatsApp,Low,83,A-Tech,Interested,,22-25,High,1,Active
+L0350,Priya Iyer,24,Female,Punjab,Patiala,Punjabi,Diploma,"App Development, Graphic Design",9000000350,leadl0350@example.com,Y,Consented,Call,Low,83,A-Tech,New,,22-25,High,1,Active
+L0395,Meera Chatterjee,25,Female,Karnataka,Mysuru,Kannada,12th Pass,"Graphic Design, Healthcare Assistant",9000000395,leadl0395@example.com,Y,Consented,Email,Low,83,C-HighNeed,Verified,,22-25,High,1,Active
+L0023,Riya Das,22,Female,Odisha,Bhubaneswar,Odia,10th Pass,"Data Entry, Healthcare Assistant, Sales",9000000023,leadl0023@example.com,Y,Consented,Call,Low,82,B-Service,Interested,,22-25,High,1,Active
+L0046,Sneha Singh,21,Female,Kerala,Thrissur,Malayalam,Undergraduate,"Data Entry, Electrical, MS Office",9000000046,leadl0046@example.com,Y,Consented,Email,Low,82,C-HighNeed,Interested,,18-21,High,1,Active
+L0239,Kavya Reddy,25,Female,Haryana,Gurugram,Hindi,12th Pass,"Retail, Sales",9000000239,leadl0239@example.com,Y,Consented,WhatsApp,Low,82,B-Service,Contacted,,22-25,High,1,Active
+L0415,Nikhil Sharma,19,Male,Maharashtra,Nashik,Marathi,10th Pass,Accounting,9000000415,leadl0415@example.com,Y,Consented,WhatsApp,Low,82,C-HighNeed,New,,18-21,High,1,Active
+L0094,Sneha Jain,27,Female,Punjab,Bathinda,Punjabi,Undergraduate,"Accounting, Healthcare Assistant",9000000094,leadl0094@example.com,Y,Consented,Email,Low,81,C-HighNeed,Verified,,26+,High,1,Active
+L0101,Manish Nair,20,Male,Bihar,Gaya,Hindi,Postgraduate,"Retail, Web Development",9000000101,leadl0101@example.com,Y,Consented,Call,Low,81,A-Tech,Registered,,18-21,High,1,Active
+L0123,Sneha Patel,28,Female,Tamil Nadu,Madurai,Tamil,Undergraduate,Retail,9000000123,leadl0123@example.com,Y,Consented,Email,Low,81,B-Service,Registered,,26+,High,1,Active
+L0215,Aarav Nair,25,Male,Gujarat,Bhavnagar,Gujarati,12th Pass,Web Development,9000000215,leadl0215@example.com,Y,Consented,SMS,Low,81,C-HighNeed,New,,22-25,High,1,Active
+L0361,Kunal Khan,28,Male,Gujarat,Ahmedabad,Gujarati,Diploma,"Data Entry, Sales",9000000361,leadl0361@example.com,Y,Consented,WhatsApp,Low,81,B-Service,New,,26+,High,1,Active
+L0486,Kavya Yadav,22,Female,Andhra Pradesh,Vijayawada,Telugu,Diploma,"Customer Support, Python",9000000486,leadl0486@example.com,Y,Consented,Email,Low,81,A-Tech,Interested,,22-25,High,1,Active
+L0058,Nikhil Yadav,26,Male,Karnataka,Belagavi,Kannada,10th Pass,"App Development, Digital Marketing",9000000058,leadl0058@example.com,Y,Consented,SMS,Mid,80,D-General,Contacted,,26+,High,1,Active
+L0070,Sanjay Khan,25,Male,Haryana,Panipat,Hindi,12th Pass,"Accounting, Customer Support",9000000070,leadl0070@example.com,Y,Consented,SMS,Low,80,B-Service,Registered,,22-25,High,1,Active
+L0083,Pooja Iyer,28,Female,Madhya Pradesh,Jabalpur,Hindi,12th Pass,"English Speaking, Healthcare Assistant, MS Office",9000000083,leadl0083@example.com,Y,Consented,SMS,Low,80,B-Service,Interested,,26+,High,1,Active
+L0352,Vivaan Sharma,25,Male,Rajasthan,Jodhpur,Hindi,12th Pass,"Digital Marketing, Graphic Design",9000000352,leadl0352@example.com,Y,Consented,Call,Low,80,C-HighNeed,Registered,,22-25,High,1,Active
+L0391,Aanya Khan,22,Female,Andhra Pradesh,Vijayawada,Telugu,Diploma,"Customer Support, Sales",9000000391,leadl0391@example.com,Y,Consented,Email,Low,80,B-Service,New,,22-25,High,1,Active
+L0462,Priya Gupta,18,Female,Bihar,Purnia,Hindi,Diploma,"Electrical, Web Development",9000000462,leadl0462@example.com,Y,Consented,SMS,Low,80,A-Tech,Enrolled,,18-21,High,1,Active
+L0169,Rohan Gupta,24,Male,Kerala,Kochi,Malayalam,Undergraduate,"Digital Marketing, MS Office",9000000169,leadl0169@example.com,Y,Consented,WhatsApp,Low,79,C-HighNeed,New,,22-25,High,1,Active
+L0190,Nandini Sharma,22,Female,Haryana,Faridabad,Hindi,12th Pass,"Retail, Tally",9000000190,leadl0190@example.com,Y,Consented,Call,Low,79,B-Service,New,,22-25,High,1,Active
+L0276,Nikhil Sharma,21,Male,Madhya Pradesh,Indore,Hindi,Diploma,"Healthcare Assistant, Tally",9000000276,leadl0276@example.com,Y,Consented,Email,Low,79,C-HighNeed,Enrolled,,18-21,High,1,Active
+L0285,Meera Yadav,19,Female,Kerala,Kochi,Malayalam,10th Pass,"Data Entry, Digital Marketing, Retail",9000000285,leadl0285@example.com,Y,Consented,WhatsApp,Low,79,B-Service,Registered,,18-21,High,1,Active
+L0332,Riya Sharma,25,Female,Punjab,Patiala,Punjabi,Diploma,Electrical,9000000332,leadl0332@example.com,Y,Consented,Email,Low,79,C-HighNeed,Contacted,,22-25,High,1,Active
+L0423,Sneha Verma,28,Female,Karnataka,Mysuru,Kannada,12th Pass,Customer Support,9000000423,leadl0423@example.com,Y,Consented,Email,Low,79,B-Service,Interested,,26+,High,1,Active
+L0424,Aanya Sharma,23,Female,Maharashtra,Nagpur,Marathi,10th Pass,"Customer Support, Electrical, MS Office",9000000424,leadl0424@example.com,Y,Consented,SMS,Mid,79,B-Service,Verified,,22-25,High,1,Active
+L0454,Shreya Khan,26,Female,Maharashtra,Nagpur,Marathi,Undergraduate,"Healthcare Assistant, Retail",9000000454,leadl0454@example.com,Y,Consented,Email,Low,79,B-Service,Contacted,,26+,High,1,Active
+L0043,Aanya Yadav,24,Female,Haryana,Karnal,Hindi,10th Pass,"Accounting, Digital Marketing, Web Development",9000000043,leadl0043@example.com,Y,Consented,Email,Mid,78,D-General,Registered,,22-25,High,1,Active
+L0106,Sanjay Verma,18,Male,Madhya Pradesh,Indore,Hindi,12th Pass,"Electrical, MS Office, Sales",9000000106,leadl0106@example.com,Y,Consented,Call,Low,78,B-Service,New,,18-21,High,1,Active
+L0132,Aarav Khan,19,Male,West Bengal,Kolkata,Bengali,Undergraduate,"Python, Tally",9000000132,leadl0132@example.com,Y,Consented,Call,Low,78,A-Tech,Enrolled,,18-21,High,1,Active
+L0158,Aanya Khan,21,Female,Kerala,Kochi,Malayalam,10th Pass,"App Development, Graphic Design",9000000158,leadl0158@example.com,Y,Consented,SMS,Mid,78,D-General,Contacted,,18-21,High,1,Active
+L0279,Rohan Das,20,Male,Andhra Pradesh,Visakhapatnam,Telugu,12th Pass,"App Development, Retail",9000000279,leadl0279@example.com,Y,Consented,SMS,Low,78,B-Service,New,,18-21,High,1,Active
+L0443,Rahul Iyer,20,Male,Andhra Pradesh,Kurnool,Telugu,10th Pass,"Digital Marketing, Tally",9000000443,leadl0443@example.com,Y,Consented,SMS,Low,78,C-HighNeed,Verified,,18-21,High,1,Active
+L0490,Sanjay Nair,21,Male,Bihar,Patna,Hindi,12th Pass,"Sales, Web Development",9000000490,leadl0490@example.com,Y,Consented,WhatsApp,Low,78,B-Service,Contacted,,18-21,High,1,Active
+L0007,Sanjay Khan,23,Male,West Bengal,Darjeeling,Bengali,Undergraduate,"English Speaking, Sales, Tally",9000000007,leadl0007@example.com,Y,Consented,Call,Low,77,B-Service,Contacted,,22-25,High,1,Active
+L0052,Aditya Patel,20,Male,Gujarat,Ahmedabad,Gujarati,12th Pass,Python,9000000052,leadl0052@example.com,Y,Consented,Email,Mid,77,D-General,Verified,,18-21,High,1,Active
+L0093,Sanjay Jain,23,Male,Rajasthan,Jodhpur,Hindi,12th Pass,Tally,9000000093,leadl0093@example.com,Y,Consented,WhatsApp,Low,77,C-HighNeed,New,,22-25,High,1,Active
+L0100,Isha Patel,23,Female,Punjab,Patiala,Punjabi,12th Pass,"English Speaking, Tally",9000000100,leadl0100@example.com,Y,Consented,WhatsApp,Low,77,B-Service,Registered,,22-25,High,1,Active
+L0192,Aman Das,28,Male,Andhra Pradesh,Guntur,Telugu,10th Pass,"Customer Support, English Speaking, Python",9000000192,leadl0192@example.com,Y,Consented,SMS,Mid,77,B-Service,Registered,,26+,High,1,Active
+L0207,Pooja Kulkarni,20,Female,Bihar,Patna,Hindi,Postgraduate,"Customer Support, Digital Marketing, English Speaking",9000000207,leadl0207@example.com,Y,Consented,Email,Low,77,B-Service,New,,18-21,High,1,Active
+L0224,Shreya Verma,23,Female,Madhya Pradesh,Jabalpur,Hindi,12th Pass,"Python, Retail",9000000224,leadl0224@example.com,Y,Consented,Email,Mid,77,B-Service,Contacted,,22-25,High,1,Active
+L0292,Manish Khan,23,Male,Punjab,Jalandhar,Punjabi,Undergraduate,"Data Entry, Digital Marketing",9000000292,leadl0292@example.com,Y,Consented,Email,Low,77,C-HighNeed,Enrolled,,22-25,High,1,Active
+L0298,Aman Singh,28,Male,Haryana,Panipat,Hindi,Diploma,"Accounting, Python",9000000298,leadl0298@example.com,Y,Consented,SMS,Low,77,A-Tech,Interested,,26+,High,1,Active
+L0330,Priya Kulkarni,23,Female,Haryana,Karnal,Hindi,Undergraduate,"App Development, Web Development",9000000330,leadl0330@example.com,Y,Consented,Call,Low,77,A-Tech,Interested,,22-25,High,1,Active
+L0333,Pooja Patel,20,Female,Kerala,Thrissur,Malayalam,Undergraduate,"MS Office, Sales",9000000333,leadl0333@example.com,Y,Consented,Email,Low,77,B-Service,Contacted,,18-21,High,1,Active
+L0344,Sakshi Gupta,18,Female,Telangana,Nizamabad,Telugu,Postgraduate,"Digital Marketing, Retail",9000000344,leadl0344@example.com,Y,Consented,SMS,Low,77,B-Service,Registered,,18-21,High,1,Active
+L0369,Rahul Verma,25,Male,Bihar,Purnia,Hindi,Postgraduate,"Accounting, Digital Marketing, Retail",9000000369,leadl0369@example.com,Y,Consented,SMS,Low,77,B-Service,Contacted,,22-25,High,1,Active
+L0399,Neha Singh,19,Female,Haryana,Karnal,Hindi,12th Pass,"MS Office, Python",9000000399,leadl0399@example.com,Y,Consented,WhatsApp,Mid,77,D-General,New,,18-21,High,1,Active
+L0022,Nandini Chatterjee,19,Female,Odisha,Cuttack,Odia,Diploma,English Speaking,9000000022,leadl0022@example.com,Y,Consented,Email,Low,76,B-Service,Contacted,,18-21,High,1,Active
+L0191,Meera Nair,24,Female,Karnataka,Bengaluru Urban,Kannada,10th Pass,"App Development, Retail, Sales",9000000191,leadl0191@example.com,Y,Consented,WhatsApp,Mid,76,B-Service,Enrolled,,22-25,High,1,Active
+L0260,Pranav Singh,19,Male,Kerala,Thiruvananthapuram,Malayalam,Diploma,"Sales, Web Development",9000000260,leadl0260@example.com,Y,Consented,WhatsApp,Low,76,A-Tech,Enrolled,,18-21,High,1,Active
+L0396,Sneha Das,18,Female,Uttar Pradesh,Agra,Hindi,10th Pass,"English Speaking, Web Development",9000000396,leadl0396@example.com,Y,Consented,SMS,Mid,76,B-Service,Interested,,18-21,High,1,Active
+L0460,Nandini Mehta,20,Female,Rajasthan,Jodhpur,Hindi,10th Pass,"Digital Marketing, Python",9000000460,leadl0460@example.com,Y,Consented,WhatsApp,Mid,76,D-General,Interested,,18-21,High,1,Active
+L0033,Aman Mehta,24,Male,Karnataka,Belagavi,Kannada,12th Pass,"Accounting, Retail",9000000033,leadl0033@example.com,Y,Consented,Call,Low,75,B-Service,New,,22-25,High,1,Active
+L0047,Pooja Mehta,26,Female,Rajasthan,Kota,Hindi,Undergraduate,"English Speaking, Sales",9000000047,leadl0047@example.com,Y,Consented,SMS,Low,75,B-Service,Contacted,,26+,High,1,Active
+L0048,Kavya Mehta,27,Female,Punjab,Bathinda,Punjabi,Postgraduate,"Healthcare Assistant, MS Office",9000000048,leadl0048@example.com,Y,Consented,SMS,Low,75,C-HighNeed,Contacted,,26+,High,1,Active
+L0183,Nandini Khan,27,Female,Uttar Pradesh,Kanpur Nagar,Hindi,Diploma,Customer Support,9000000183,leadl0183@example.com,Y,Consented,Call,Low,75,B-Service,Interested,,26+,High,1,Active
+L0186,Rohan Sharma,22,Male,West Bengal,Murshidabad,Bengali,Diploma,"Electrical, Web Development",9000000186,leadl0186@example.com,Y,Consented,WhatsApp,Mid,75,A-Tech,Contacted,,22-25,High,1,Active
+L0211,Aarav Kulkarni,21,Male,Odisha,Sambalpur,Odia,Undergraduate,"Retail, Web Development",9000000211,leadl0211@example.com,Y,Consented,Call,Low,75,A-Tech,New,,18-21,High,1,Active
+L0231,Isha Sharma,23,Female,Maharashtra,Nashik,Marathi,10th Pass,"Accounting, Healthcare Assistant",9000000231,leadl0231@example.com,Y,Consented,SMS,Mid,75,D-General,Registered,,22-25,High,1,Active
+L0257,Diya Singh,22,Female,Karnataka,Mysuru,Kannada,12th Pass,Sales,9000000257,leadl0257@example.com,Y,Consented,SMS,Low,75,B-Service,Interested,,22-25,High,1,Active
+L0318,Arjun Patel,21,Male,Haryana,Rohtak,Hindi,Diploma,"Electrical, MS Office",9000000318,leadl0318@example.com,Y,Consented,WhatsApp,Low,75,C-HighNeed,Verified,,18-21,High,1,Active
+L0324,Aarav Patel,22,Male,Karnataka,Bengaluru Urban,Kannada,Undergraduate,"Digital Marketing, Sales",9000000324,leadl0324@example.com,Y,Consented,Email,Low,75,B-Service,Enrolled,,22-25,High,1,Active
+L0452,Aman Das,18,Male,Bihar,Purnia,Hindi,10th Pass,"Data Entry, Python",9000000452,leadl0452@example.com,Y,Consented,WhatsApp,Mid,75,D-General,Registered,,18-21,High,1,Active
+L0474,Ritesh Verma,25,Male,Andhra Pradesh,Visakhapatnam,Telugu,12th Pass,"Accounting, Digital Marketing, Graphic Design",9000000474,leadl0474@example.com,Y,Consented,Call,Low,75,C-HighNeed,Verified,,22-25,High,1,Active
+L0035,Sneha Reddy,21,Female,Haryana,Panipat,Hindi,Postgraduate,"Accounting, Customer Support, Sales",9000000035,leadl0035@example.com,Y,Consented,WhatsApp,Low,74,B-Service,New,,18-21,High,1,Active
+L0244,Siddharth Kulkarni,20,Male,Andhra Pradesh,Vijayawada,Telugu,Postgraduate,Customer Support,9000000244,leadl0244@example.com,Y,Consented,Email,Low,74,B-Service,Interested,,18-21,High,1,Active
+L0296,Nikhil Patel,27,Male,Andhra Pradesh,Vijayawada,Telugu,Postgraduate,"Tally, Web Development",9000000296,leadl0296@example.com,Y,Consented,Email,Low,74,A-Tech,New,,26+,High,1,Active
+L0320,Sneha Singh,18,Female,Gujarat,Vadodara,Gujarati,Undergraduate,"MS Office, Web Development",9000000320,leadl0320@example.com,Y,Consented,SMS,Mid,74,A-Tech,Contacted,,18-21,High,1,Active
+L0325,Manish Khan,28,Male,Andhra Pradesh,Kurnool,Telugu,12th Pass,"Digital Marketing, English Speaking",9000000325,leadl0325@example.com,Y,Consented,WhatsApp,Mid,74,B-Service,Interested,,26+,High,1,Active
+L0372,Sneha Yadav,18,Female,Odisha,Cuttack,Odia,Postgraduate,"App Development, Data Entry, Retail",9000000372,leadl0372@example.com,Y,Consented,Email,Low,74,A-Tech,Verified,,18-21,High,1,Active
+L0403,Nikhil Gupta,25,Male,Bihar,Gaya,Hindi,Postgraduate,"Digital Marketing, Healthcare Assistant, Python",9000000403,leadl0403@example.com,Y,Consented,WhatsApp,Low,74,A-Tech,New,,22-25,High,1,Active
+L0464,Aanya Mehta,19,Female,West Bengal,Howrah,Bengali,12th Pass,"Sales, Tally",9000000464,leadl0464@example.com,Y,Consented,WhatsApp,Low,74,B-Service,New,,18-21,High,1,Active
+L0494,Ritesh Gupta,22,Male,Gujarat,Ahmedabad,Gujarati,Diploma,"App Development, Graphic Design, Retail",9000000494,leadl0494@example.com,Y,Consented,SMS,Mid,74,A-Tech,Registered,,22-25,High,1,Active
+L0008,Vikram Das,19,Male,Punjab,Ludhiana,Punjabi,10th Pass,"Accounting, Tally",9000000008,leadl0008@example.com,Y,Consented,Call,Mid,73,D-General,Interested,,18-21,High,1,Active
+L0068,Nandini Reddy,28,Female,Gujarat,Surat,Gujarati,10th Pass,"Digital Marketing, Graphic Design, Sales",9000000068,leadl0068@example.com,Y,Consented,Email,Mid,73,B-Service,Contacted,,26+,High,1,Active
+L0080,Riya Khan,19,Female,Karnataka,Hubballi-Dharwad,Kannada,12th Pass,Retail,9000000080,leadl0080@example.com,Y,Consented,WhatsApp,Mid,73,B-Service,New,,18-21,High,1,Active
+L0179,Sneha Jain,21,Female,Gujarat,Rajkot,Gujarati,Diploma,"MS Office, Retail, Web Development",9000000179,leadl0179@example.com,Y,Consented,WhatsApp,Mid,73,A-Tech,New,,18-21,High,1,Active
+L0341,Aman Singh,19,Male,Bihar,Bhagalpur,Hindi,12th Pass,"App Development, Electrical",9000000341,leadl0341@example.com,Y,Consented,SMS,Mid,73,D-General,New,,18-21,High,1,Active
+L0371,Kunal Nair,18,Male,Telangana,Karimnagar,Telugu,Diploma,"English Speaking, Graphic Design, Retail",9000000371,leadl0371@example.com,Y,Consented,WhatsApp,Mid,73,B-Service,Interested,,18-21,High,1,Active
+L0392,Diya Sharma,27,Female,Gujarat,Bhavnagar,Gujarati,10th Pass,"App Development, Digital Marketing",9000000392,leadl0392@example.com,Y,Consented,Email,Mid,73,D-General,Registered,,26+,High,1,Active
+L0414,Anjali Verma,22,Female,Andhra Pradesh,Kurnool,Telugu,Undergraduate,"Accounting, Electrical, Retail",9000000414,leadl0414@example.com,Y,Consented,SMS,Low,73,B-Service,Contacted,,22-25,High,1,Active
+L0446,Siddharth Gupta,21,Male,Gujarat,Ahmedabad,Gujarati,Diploma,"Accounting, App Development, Tally",9000000446,leadl0446@example.com,Y,Consented,Email,Mid,73,A-Tech,Contacted,,18-21,High,1,Active
+L0472,Rahul Patel,27,Male,Haryana,Karnal,Hindi,10th Pass,"Healthcare Assistant, Python",9000000472,leadl0472@example.com,Y,Consented,Email,Mid,73,D-General,Verified,,26+,High,1,Active
+L0002,Vikram Patel,28,Male,Kerala,Kollam,Malayalam,Undergraduate,"Graphic Design, Web Development",9000000002,leadl0002@example.com,Y,Consented,Call,Low,72,A-Tech,Contacted,,26+,High,1,Active
+L0079,Aditya Sharma,23,Male,Punjab,Amritsar,Punjabi,Postgraduate,"Data Entry, Tally",9000000079,leadl0079@example.com,Y,Consented,WhatsApp,Low,72,C-HighNeed,Interested,,22-25,High,1,Active
+L0114,Kavya Chatterjee,18,Female,Uttar Pradesh,Agra,Hindi,Diploma,"Data Entry, Tally",9000000114,leadl0114@example.com,Y,Consented,Email,Mid,72,D-General,Contacted,,18-21,High,1,Active
+L0168,Nikhil Reddy,25,Male,Karnataka,Mysuru,Kannada,Diploma,"Accounting, Python, Tally",9000000168,leadl0168@example.com,Y,Consented,SMS,Mid,72,A-Tech,Verified,,22-25,High,1,Active
+L0170,Kunal Das,26,Male,Gujarat,Bhavnagar,Gujarati,Undergraduate,Data Entry,9000000170,leadl0170@example.com,Y,Consented,Call,Low,72,C-HighNeed,New,,26+,High,1,Active
+L0182,Rahul Iyer,21,Male,Karnataka,Bengaluru Urban,Kannada,Diploma,"Accounting, App Development, Digital Marketing",9000000182,leadl0182@example.com,Y,Consented,Call,Mid,72,A-Tech,Registered,,18-21,High,1,Active
+L0262,Rahul Yadav,23,Male,Bihar,Patna,Hindi,Undergraduate,"Python, Sales, Web Development",9000000262,leadl0262@example.com,Y,Consented,SMS,Mid,72,A-Tech,New,,22-25,High,1,Active
+L0323,Aditya Jain,20,Male,Karnataka,Bengaluru Urban,Kannada,12th Pass,"Accounting, Tally, Web Development",9000000323,leadl0323@example.com,Y,Consented,WhatsApp,Mid,72,D-General,Interested,,18-21,High,1,Active
+L0326,Sneha Chatterjee,20,Female,Haryana,Faridabad,Hindi,Diploma,"Accounting, Graphic Design, Healthcare Assistant",9000000326,leadl0326@example.com,Y,Consented,Email,Low,72,C-HighNeed,Contacted,,18-21,High,1,Active
+L0337,Arjun Kulkarni,22,Male,Haryana,Karnal,Hindi,10th Pass,Electrical,9000000337,leadl0337@example.com,Y,Consented,WhatsApp,Mid,72,D-General,Contacted,,22-25,High,1,Active
+L0398,Rahul Patel,27,Male,Tamil Nadu,Salem,Tamil,Postgraduate,"App Development, Retail",9000000398,leadl0398@example.com,Y,Consented,Call,Low,72,A-Tech,New,,26+,High,1,Active
+L0175,Anjali Reddy,19,Female,Haryana,Karnal,Hindi,Undergraduate,"Accounting, Sales",9000000175,leadl0175@example.com,Y,Consented,WhatsApp,Low,71,B-Service,Interested,,18-21,High,1,Active
+L0228,Riya Nair,19,Female,Haryana,Karnal,Hindi,Postgraduate,"Tally, Web Development",9000000228,leadl0228@example.com,Y,Consented,WhatsApp,Low,71,A-Tech,New,,18-21,High,1,Active
+L0272,Vikram Kulkarni,24,Male,Haryana,Rohtak,Hindi,Undergraduate,"Graphic Design, Retail",9000000272,leadl0272@example.com,Y,Consented,Email,Low,71,B-Service,Interested,,22-25,High,1,Active
+L0277,Manish Yadav,28,Male,Kerala,Kollam,Malayalam,12th Pass,"App Development, Customer Support, Electrical",9000000277,leadl0277@example.com,Y,Consented,Call,Mid,71,B-Service,Interested,,26+,High,1,Active
+L0280,Aanya Iyer,25,Female,Kerala,Kochi,Malayalam,10th Pass,"Digital Marketing, English Speaking",9000000280,leadl0280@example.com,Y,Consented,Email,Mid,71,B-Service,New,,22-25,High,1,Active
+L0290,Manish Yadav,22,Male,West Bengal,Kolkata,Bengali,12th Pass,Healthcare Assistant,9000000290,leadl0290@example.com,Y,Consented,WhatsApp,Mid,71,D-General,Contacted,,22-25,High,1,Active
+L0313,Sanjay Verma,26,Male,Madhya Pradesh,Ujjain,Hindi,Postgraduate,"Digital Marketing, Healthcare Assistant",9000000313,leadl0313@example.com,Y,Consented,WhatsApp,Low,71,C-HighNeed,Contacted,,26+,High,1,Active
+L0338,Vikram Chatterjee,21,Male,Karnataka,Belagavi,Kannada,Diploma,"Accounting, Tally",9000000338,leadl0338@example.com,Y,Consented,Email,Mid,71,D-General,Contacted,,18-21,High,1,Active
+L0356,Anjali Nair,20,Female,Bihar,Muzaffarpur,Hindi,10th Pass,"Data Entry, Graphic Design, Retail",9000000356,leadl0356@example.com,Y,Consented,SMS,Mid,71,B-Service,Verified,,18-21,High,1,Active
+L0435,Siddharth Khan,25,Male,Maharashtra,Nashik,Marathi,12th Pass,"English Speaking, Graphic Design",9000000435,leadl0435@example.com,Y,Consented,SMS,Mid,71,B-Service,Registered,,22-25,High,1,Active
+L0491,Sneha Chatterjee,21,Female,Madhya Pradesh,Indore,Hindi,Diploma,"Digital Marketing, Retail, Sales",9000000491,leadl0491@example.com,Y,Consented,WhatsApp,Low,71,B-Service,Registered,,18-21,High,1,Active
+L0181,Nikhil Chatterjee,24,Male,Tamil Nadu,Chennai,Tamil,Postgraduate,"Graphic Design, Web Development",9000000181,leadl0181@example.com,Y,Consented,WhatsApp,Low,70,A-Tech,Registered,,22-25,High,1,Active
+L0188,Siddharth Yadav,19,Male,Punjab,Amritsar,Punjabi,12th Pass,"Healthcare Assistant, Retail",9000000188,leadl0188@example.com,Y,Consented,SMS,Mid,70,B-Service,Enrolled,,18-21,High,1,Active
+L0196,Priya Verma,24,Female,Kerala,Kochi,Malayalam,Undergraduate,Customer Support,9000000196,leadl0196@example.com,Y,Consented,Email,Low,70,B-Service,New,,22-25,High,1,Active
+L0204,Vivaan Sharma,20,Male,Kerala,Thiruvananthapuram,Malayalam,12th Pass,"App Development, Digital Marketing, Healthcare Assistant",9000000204,leadl0204@example.com,Y,Consented,Email,Mid,70,D-General,Verified,,18-21,High,1,Active
+L0208,Aditya Patel,26,Male,Maharashtra,Nashik,Marathi,10th Pass,"Electrical, Healthcare Assistant, Sales",9000000208,leadl0208@example.com,Y,Consented,Email,Mid,70,B-Service,Contacted,,26+,High,1,Active
+L0335,Aarav Singh,18,Male,Bihar,Patna,Hindi,Diploma,"Retail, Tally",9000000335,leadl0335@example.com,Y,Consented,Call,Low,70,B-Service,Contacted,,18-21,High,1,Active
+L0360,Rohan Das,25,Male,Maharashtra,Nagpur,Marathi,12th Pass,"App Development, Customer Support",9000000360,leadl0360@example.com,Y,Consented,SMS,Mid,70,B-Service,Registered,,22-25,High,1,Active
+L0418,Pooja Iyer,18,Female,Madhya Pradesh,Jabalpur,Hindi,12th Pass,"Customer Support, MS Office, Web Development",9000000418,leadl0418@example.com,Y,Consented,Call,Mid,70,B-Service,Contacted,,18-21,High,1,Active
+L0420,Kavya Gupta,23,Female,Odisha,Berhampur,Odia,Postgraduate,App Development,9000000420,leadl0420@example.com,Y,Consented,WhatsApp,Mid,70,A-Tech,Interested,,22-25,High,1,Active
+L0024,Riya Sharma,19,Female,Uttar Pradesh,Kanpur Nagar,Hindi,Postgraduate,Healthcare Assistant,9000000024,leadl0024@example.com,Y,Consented,Email,Low,69,C-HighNeed,Enrolled,,18-21,High,1,Active
+L0030,Pooja Mehta,22,Female,Gujarat,Surat,Gujarati,12th Pass,"Accounting, English Speaking, Python",9000000030,leadl0030@example.com,Y,Consented,WhatsApp,Mid,69,B-Service,Contacted,,22-25,High,1,Active
+L0146,Anjali Sharma,25,Female,Bihar,Purnia,Hindi,Undergraduate,"App Development, Data Entry, Graphic Design",9000000146,leadl0146@example.com,Y,Consented,WhatsApp,Mid,69,A-Tech,Verified,,22-25,High,1,Active
+L0216,Neha Chatterjee,28,Female,Andhra Pradesh,Visakhapatnam,Telugu,Postgraduate,"English Speaking, Healthcare Assistant",9000000216,leadl0216@example.com,Y,Consented,SMS,Low,69,B-Service,New,,26+,High,1,Active
+L0245,Priya Iyer,25,Female,Madhya Pradesh,Indore,Hindi,Undergraduate,"Accounting, App Development",9000000245,leadl0245@example.com,Y,Consented,Email,Mid,69,A-Tech,Registered,,22-25,High,1,Active
+L0283,Pooja Kulkarni,19,Female,Tamil Nadu,Madurai,Tamil,Postgraduate,"App Development, Data Entry",9000000283,leadl0283@example.com,Y,Consented,Call,Mid,69,A-Tech,New,,18-21,High,1,Active
+L0334,Pooja Patel,19,Female,Bihar,Gaya,Hindi,Diploma,Accounting,9000000334,leadl0334@example.com,Y,Consented,SMS,Mid,69,D-General,Contacted,,18-21,High,1,Active
+L0014,Rohan Chatterjee,25,Male,West Bengal,Murshidabad,Bengali,12th Pass,"Customer Support, Electrical, Web Development",9000000014,leadl0014@example.com,Y,Consented,Email,Mid,68,B-Service,Interested,,22-25,High,1,Active
+L0064,Diya Singh,25,Female,Maharashtra,Mumbai Suburban,Marathi,Undergraduate,"MS Office, Web Development",9000000064,leadl0064@example.com,Y,Consented,WhatsApp,Mid,68,A-Tech,Enrolled,,22-25,High,1,Active
+L0089,Aanya Patel,24,Female,Telangana,Hyderabad,Telugu,10th Pass,"Customer Support, Sales",9000000089,leadl0089@example.com,Y,Consented,Call,Mid,68,B-Service,Verified,,22-25,High,1,Active
+L0099,Isha Khan,19,Female,Madhya Pradesh,Ujjain,Hindi,Undergraduate,"Healthcare Assistant, Tally",9000000099,leadl0099@example.com,Y,Consented,Email,Mid,68,D-General,New,,18-21,High,1,Active
+L0126,Sneha Sharma,19,Female,Tamil Nadu,Tiruchirappalli,Tamil,Undergraduate,"Customer Support, Graphic Design",9000000126,leadl0126@example.com,Y,Consented,Call,Low,68,B-Service,Contacted,,18-21,High,1,Active
+L0150,Sanjay Kulkarni,19,Male,Maharashtra,Nashik,Marathi,Postgraduate,Customer Support,9000000150,leadl0150@example.com,Y,Consented,WhatsApp,Low,68,B-Service,Contacted,,18-21,High,1,Active
+L0278,Riya Sharma,18,Female,Kerala,Kozhikode,Malayalam,12th Pass,"Accounting, Customer Support, Healthcare Assistant",9000000278,leadl0278@example.com,Y,Consented,SMS,Mid,68,B-Service,Verified,,18-21,High,1,Active
+L0329,Vivaan Reddy,27,Male,Bihar,Patna,Hindi,Undergraduate,"Customer Support, English Speaking",9000000329,leadl0329@example.com,Y,Consented,SMS,Mid,68,B-Service,New,,26+,High,1,Active
+L0059,Sanjay Reddy,25,Male,Odisha,Berhampur,Odia,10th Pass,Accounting,9000000059,leadl0059@example.com,Y,Consented,WhatsApp,Mid,67,D-General,Interested,,22-25,High,1,Active
+L0060,Arjun Yadav,19,Male,Karnataka,Bengaluru Urban,Kannada,12th Pass,"English Speaking, Retail, Sales",9000000060,leadl0060@example.com,Y,Consented,Call,Mid,67,B-Service,Contacted,,18-21,High,1,Active
+L0166,Pranav Yadav,24,Male,Odisha,Bhubaneswar,Odia,Diploma,"Customer Support, Graphic Design",9000000166,leadl0166@example.com,Y,Consented,Call,Mid,67,B-Service,Verified,,22-25,High,1,Active
+L0321,Rahul Iyer,27,Male,Haryana,Panipat,Hindi,12th Pass,"Customer Support, Sales",9000000321,leadl0321@example.com,Y,Consented,SMS,Mid,67,B-Service,Interested,,26+,High,1,Active
+L0336,Kavya Jain,25,Female,Rajasthan,Udaipur,Hindi,10th Pass,"Healthcare Assistant, MS Office",9000000336,leadl0336@example.com,Y,Consented,WhatsApp,Mid,67,D-General,Interested,,22-25,High,1,Active
+L0373,Sneha Gupta,24,Female,Madhya Pradesh,Ujjain,Hindi,10th Pass,"Healthcare Assistant, Web Development",9000000373,leadl0373@example.com,Y,Consented,SMS,Mid,67,D-General,Interested,,22-25,High,1,Active
+L0404,Meera Nair,20,Female,Uttar Pradesh,Kanpur Nagar,Hindi,Undergraduate,"Electrical, English Speaking, Retail",9000000404,leadl0404@example.com,Y,Consented,Call,Mid,67,B-Service,Interested,,18-21,High,1,Active
+L0408,Shreya Mehta,23,Female,Tamil Nadu,Madurai,Tamil,Diploma,"Data Entry, Tally",9000000408,leadl0408@example.com,Y,Consented,WhatsApp,Mid,67,D-General,Registered,,22-25,High,1,Active
+L0417,Rohan Reddy,25,Male,Andhra Pradesh,Visakhapatnam,Telugu,Undergraduate,"Electrical, Python",9000000417,leadl0417@example.com,Y,Consented,Email,Mid,67,A-Tech,Verified,,22-25,High,1,Active
+L0477,Sneha Jain,19,Female,Telangana,Karimnagar,Telugu,Postgraduate,"App Development, Tally, Web Development",9000000477,leadl0477@example.com,Y,Consented,Call,Mid,67,A-Tech,Registered,,18-21,High,1,Active
+L0036,Kunal Mehta,20,Male,Kerala,Kochi,Malayalam,10th Pass,"App Development, Digital Marketing, Python",9000000036,leadl0036@example.com,Y,Consented,WhatsApp,Mid,66,D-General,Enrolled,,18-21,High,1,Active
+L0247,Sanjay Sharma,27,Male,Tamil Nadu,Madurai,Tamil,12th Pass,Accounting,9000000247,leadl0247@example.com,Y,Consented,Call,Mid,66,D-General,Verified,,26+,High,1,Active
+L0291,Aman Khan,25,Male,Rajasthan,Kota,Hindi,12th Pass,"MS Office, Sales",9000000291,leadl0291@example.com,Y,Consented,Email,Mid,66,B-Service,Registered,,22-25,High,1,Active
+L0377,Priya Das,26,Female,Punjab,Ludhiana,Punjabi,Postgraduate,"Customer Support, English Speaking, Graphic Design",9000000377,leadl0377@example.com,Y,Consented,WhatsApp,Mid,66,B-Service,Contacted,,26+,High,1,Active
+L0394,Shreya Iyer,22,Female,Rajasthan,Jodhpur,Hindi,Postgraduate,English Speaking,9000000394,leadl0394@example.com,Y,Consented,Call,Mid,66,B-Service,New,,22-25,High,1,Active
+L0410,Priya Reddy,18,Female,Kerala,Thiruvananthapuram,Malayalam,Postgraduate,"English Speaking, Graphic Design",9000000410,leadl0410@example.com,Y,Consented,SMS,Mid,66,B-Service,Interested,,18-21,High,1,Active
+L0412,Anjali Yadav,19,Female,Maharashtra,Mumbai Suburban,Marathi,Undergraduate,"English Speaking, Sales, Web Development",9000000412,leadl0412@example.com,Y,Consented,Call,Mid,66,A-Tech,Contacted,,18-21,High,1,Active
+L0456,Sneha Yadav,26,Female,Rajasthan,Jaipur,Hindi,Postgraduate,"Data Entry, MS Office, Python",9000000456,leadl0456@example.com,Y,Consented,SMS,Mid,66,A-Tech,Contacted,,26+,High,1,Active
+L0012,Riya Gupta,22,Female,Gujarat,Bhavnagar,Gujarati,Undergraduate,"App Development, English Speaking",9000000012,leadl0012@example.com,Y,Consented,Email,Mid,65,A-Tech,Interested,,22-25,High,1,Active
+L0107,Shreya Singh,18,Female,Andhra Pradesh,Kurnool,Telugu,Postgraduate,"Retail, Tally",9000000107,leadl0107@example.com,Y,Consented,Call,Low,65,B-Service,Contacted,,18-21,High,1,Active
+L0218,Sneha Kulkarni,20,Female,Maharashtra,Aurangabad,Marathi,Postgraduate,"Accounting, Sales",9000000218,leadl0218@example.com,Y,Consented,SMS,Mid,65,B-Service,Interested,,18-21,High,1,Active
+L0229,Sanjay Nair,20,Male,Kerala,Thiruvananthapuram,Malayalam,Postgraduate,Digital Marketing,9000000229,leadl0229@example.com,Y,Consented,SMS,Mid,65,D-General,Registered,,18-21,High,1,Active
+L0270,Sakshi Verma,18,Female,Odisha,Cuttack,Odia,Undergraduate,"Healthcare Assistant, Retail",9000000270,leadl0270@example.com,Y,Consented,SMS,Mid,65,B-Service,New,,18-21,High,1,Active
+L0315,Shreya Das,21,Female,Punjab,Jalandhar,Punjabi,Undergraduate,"Data Entry, English Speaking, Graphic Design",9000000315,leadl0315@example.com,Y,Consented,SMS,Mid,65,B-Service,Registered,,18-21,High,1,Active
+L0342,Neha Mehta,20,Female,Madhya Pradesh,Bhopal,Hindi,Undergraduate,"App Development, English Speaking, Sales",9000000342,leadl0342@example.com,Y,Consented,Email,Mid,65,A-Tech,Verified,,18-21,High,1,Active
+L0374,Sneha Sharma,20,Female,Karnataka,Hubballi-Dharwad,Kannada,12th Pass,"Digital Marketing, MS Office, Sales",9000000374,leadl0374@example.com,Y,Consented,WhatsApp,Mid,65,B-Service,Verified,,18-21,High,1,Active
+L0447,Ritesh Jain,21,Male,Haryana,Rohtak,Hindi,Diploma,"Accounting, Digital Marketing, Graphic Design",9000000447,leadl0447@example.com,Y,Consented,Call,Mid,65,D-General,Interested,,18-21,High,1,Active
+L0455,Priya Singh,19,Female,West Bengal,Darjeeling,Bengali,Undergraduate,"Electrical, Sales, Tally",9000000455,leadl0455@example.com,Y,Consented,WhatsApp,Mid,65,B-Service,New,,18-21,High,1,Active
+L0481,Pranav Das,19,Male,Kerala,Kochi,Malayalam,Diploma,"App Development, Electrical, Healthcare Assistant",9000000481,leadl0481@example.com,Y,Consented,Call,Mid,65,A-Tech,Contacted,,18-21,High,1,Active
+L0017,Sneha Patel,24,Female,Odisha,Bhubaneswar,Odia,12th Pass,"Data Entry, Python, Sales",9000000017,leadl0017@example.com,Y,Consented,Call,High,64,B-Service,New,,22-25,High,1,Active
+L0121,Ananya Chatterjee,26,Female,Madhya Pradesh,Indore,Hindi,Diploma,App Development,9000000121,leadl0121@example.com,Y,Consented,Email,Mid,64,A-Tech,Enrolled,,26+,High,1,Active
+L0195,Sakshi Mehta,21,Female,Tamil Nadu,Chennai,Tamil,10th Pass,Customer Support,9000000195,leadl0195@example.com,Y,Consented,Call,Mid,64,B-Service,New,,18-21,High,1,Active
+L0199,Arjun Singh,27,Male,Telangana,Khammam,Telugu,Diploma,Healthcare Assistant,9000000199,leadl0199@example.com,Y,Consented,SMS,Mid,64,D-General,Verified,,26+,High,1,Active
+L0255,Rahul Kulkarni,25,Male,Rajasthan,Jodhpur,Hindi,12th Pass,"Customer Support, Data Entry, Healthcare Assistant",9000000255,leadl0255@example.com,Y,Consented,SMS,Mid,64,B-Service,New,,22-25,High,1,Active
+L0266,Vikram Yadav,25,Male,Haryana,Karnal,Hindi,12th Pass,Electrical,9000000266,leadl0266@example.com,Y,Consented,SMS,Mid,64,D-General,Interested,,22-25,High,1,Active
+L0295,Riya Kulkarni,26,Female,Karnataka,Mysuru,Kannada,Diploma,"Customer Support, Electrical, Graphic Design",9000000295,leadl0295@example.com,Y,Consented,WhatsApp,Mid,64,B-Service,Interested,,26+,High,1,Active
+L0378,Shreya Chatterjee,26,Female,Haryana,Faridabad,Hindi,10th Pass,"Data Entry, Tally",9000000378,leadl0378@example.com,Y,Consented,Email,Mid,64,D-General,Contacted,,26+,High,1,Active
+L0483,Manish Iyer,22,Male,Uttar Pradesh,Ghaziabad,Hindi,Postgraduate,"Customer Support, Digital Marketing, Python",9000000483,leadl0483@example.com,Y,Consented,Email,Mid,64,A-Tech,Contacted,,22-25,High,1,Active
+L0496,Anjali Iyer,25,Female,Karnataka,Mysuru,Kannada,Diploma,"Accounting, Graphic Design",9000000496,leadl0496@example.com,Y,Consented,SMS,Mid,64,D-General,Interested,,22-25,High,1,Active
+L0082,Sneha Singh,27,Female,Tamil Nadu,Chennai,Tamil,10th Pass,"Python, Web Development",9000000082,leadl0082@example.com,Y,Consented,Call,High,63,D-General,Verified,,26+,High,1,Active
+L0088,Sneha Chatterjee,24,Female,Karnataka,Hubballi-Dharwad,Kannada,Undergraduate,"Customer Support, Electrical, Sales",9000000088,leadl0088@example.com,Y,Consented,Call,Mid,63,B-Service,Interested,,22-25,High,1,Active
+L0111,Kavya Sharma,28,Female,West Bengal,North 24 Parganas,Bengali,Diploma,Healthcare Assistant,9000000111,leadl0111@example.com,Y,Consented,Call,Mid,63,D-General,Verified,,26+,High,1,Active
+L0122,Ritesh Yadav,18,Male,Uttar Pradesh,Lucknow,Hindi,Postgraduate,"Accounting, Customer Support",9000000122,leadl0122@example.com,Y,Consented,Email,Mid,63,B-Service,Registered,,18-21,High,1,Active
+L0142,Pooja Patel,25,Female,Punjab,Jalandhar,Punjabi,Diploma,"Graphic Design, Retail",9000000142,leadl0142@example.com,Y,Consented,WhatsApp,Mid,63,B-Service,Registered,,22-25,High,1,Active
+L0385,Anjali Sharma,28,Female,Bihar,Bhagalpur,Hindi,12th Pass,"App Development, English Speaking, Healthcare Assistant",9000000385,leadl0385@example.com,Y,Consented,WhatsApp,High,63,B-Service,Enrolled,,26+,High,1,Active
+L0433,Aanya Verma,18,Female,Odisha,Sambalpur,Odia,12th Pass,"Data Entry, Electrical",9000000433,leadl0433@example.com,Y,Consented,Call,Mid,63,D-General,Registered,,18-21,High,1,Active
+L0031,Kunal Jain,27,Male,Telangana,Nizamabad,Telugu,Undergraduate,"Accounting, Customer Support, Web Development",9000000031,leadl0031@example.com,Y,Consented,Email,Mid,62,A-Tech,New,,26+,High,1,Active
+L0056,Siddharth Singh,28,Male,Karnataka,Mangaluru,Kannada,12th Pass,"Accounting, Healthcare Assistant, Web Development",9000000056,leadl0056@example.com,Y,Consented,WhatsApp,High,62,D-General,Enrolled,,26+,High,1,Active
+L0125,Vivaan Sharma,22,Male,Tamil Nadu,Tiruchirappalli,Tamil,Undergraduate,"Healthcare Assistant, Tally",9000000125,leadl0125@example.com,Y,Consented,Call,Mid,62,D-General,Interested,,22-25,High,1,Active
+L0159,Siddharth Singh,28,Male,Andhra Pradesh,Guntur,Telugu,Diploma,"Accounting, English Speaking, Retail",9000000159,leadl0159@example.com,Y,Consented,SMS,Mid,62,B-Service,Verified,,26+,High,1,Active
+L0248,Rahul Mehta,21,Male,Andhra Pradesh,Kurnool,Telugu,Undergraduate,"App Development, Sales",9000000248,leadl0248@example.com,Y,Consented,Email,Mid,62,A-Tech,Verified,,18-21,High,1,Active
+L0348,Vikram Verma,19,Male,Kerala,Kochi,Malayalam,Postgraduate,"App Development, Customer Support, English Speaking",9000000348,leadl0348@example.com,Y,Consented,WhatsApp,Mid,62,A-Tech,Verified,,18-21,High,1,Active
+L0353,Aman Verma,23,Male,Punjab,Patiala,Punjabi,12th Pass,"English Speaking, Healthcare Assistant, Retail",9000000353,leadl0353@example.com,Y,Consented,Call,Mid,62,B-Service,New,,22-25,High,1,Active
+L0411,Rahul Verma,20,Male,Telangana,Warangal,Telugu,Undergraduate,"Customer Support, Electrical, Python",9000000411,leadl0411@example.com,Y,Consented,Email,Mid,62,A-Tech,New,,18-21,High,1,Active
+L0436,Ananya Iyer,20,Female,Maharashtra,Aurangabad,Marathi,10th Pass,"MS Office, Tally",9000000436,leadl0436@example.com,Y,Consented,SMS,High,62,D-General,Enrolled,,18-21,High,1,Active
+L0457,Kavya Singh,25,Female,Maharashtra,Nagpur,Marathi,Postgraduate,"App Development, Web Development",9000000457,leadl0457@example.com,Y,Consented,Email,Mid,62,A-Tech,Contacted,,22-25,High,1,Active
+L0484,Kavya Khan,26,Female,Karnataka,Hubballi-Dharwad,Kannada,12th Pass,Accounting,9000000484,leadl0484@example.com,Y,Consented,Call,Mid,62,D-General,Contacted,,26+,High,1,Active
+L0029,Aanya Singh,26,Female,Andhra Pradesh,Vijayawada,Telugu,Diploma,"Accounting, Digital Marketing, MS Office",9000000029,leadl0029@example.com,Y,Consented,Email,Mid,61,D-General,Registered,,26+,High,1,Active
+L0063,Ananya Yadav,24,Female,Maharashtra,Nagpur,Marathi,Undergraduate,"Accounting, Electrical, Python",9000000063,leadl0063@example.com,Y,Consented,Email,Mid,61,A-Tech,Enrolled,,22-25,High,1,Active
+L0136,Meera Reddy,25,Female,West Bengal,Howrah,Bengali,Postgraduate,"App Development, English Speaking",9000000136,leadl0136@example.com,Y,Consented,SMS,Mid,61,A-Tech,Contacted,,22-25,High,1,Active
+L0265,Riya Singh,27,Female,Uttar Pradesh,Agra,Hindi,12th Pass,"Accounting, Digital Marketing, Healthcare Assistant",9000000265,leadl0265@example.com,Y,Consented,WhatsApp,Mid,61,D-General,New,,26+,High,1,Active
+L0379,Aarav Verma,24,Male,Bihar,Gaya,Hindi,Diploma,"Retail, Web Development",9000000379,leadl0379@example.com,Y,Consented,Email,Mid,61,A-Tech,Enrolled,,22-25,High,1,Active
+L0448,Sanjay Jain,22,Male,Bihar,Muzaffarpur,Hindi,12th Pass,"Digital Marketing, Electrical, Sales",9000000448,leadl0448@example.com,Y,Consented,SMS,Mid,61,B-Service,Registered,,22-25,High,1,Active
+L0478,Anjali Reddy,23,Female,Maharashtra,Pune,Marathi,Postgraduate,Tally,9000000478,leadl0478@example.com,Y,Consented,Email,Mid,61,D-General,Interested,,22-25,High,1,Active
+L0105,Rahul Kulkarni,19,Male,Haryana,Panipat,Hindi,12th Pass,"Data Entry, Sales",9000000105,leadl0105@example.com,Y,Consented,Call,High,60,B-Service,Interested,,18-21,High,1,Active
+L0286,Sanjay Reddy,24,Male,Tamil Nadu,Salem,Tamil,Undergraduate,"Data Entry, Digital Marketing, Python",9000000286,leadl0286@example.com,Y,Consented,WhatsApp,Mid,60,A-Tech,Verified,,22-25,High,1,Active
+L0383,Pranav Khan,24,Male,Tamil Nadu,Chennai,Tamil,Diploma,"App Development, Electrical",9000000383,leadl0383@example.com,Y,Consented,Email,Mid,60,A-Tech,Verified,,22-25,High,1,Active
+L0426,Sanjay Reddy,19,Male,Karnataka,Hubballi-Dharwad,Kannada,12th Pass,Healthcare Assistant,9000000426,leadl0426@example.com,Y,Consented,SMS,Mid,60,D-General,New,,18-21,High,1,Active
+L0001,Aarav Mehta,22,Male,West Bengal,Howrah,Bengali,12th Pass,Accounting,9000000001,leadl0001@example.com,Y,Consented,WhatsApp,Mid,59,D-General,Contacted,,22-25,High,1,Active
+L0005,Kavya Das,28,Female,Haryana,Panipat,Hindi,12th Pass,"Customer Support, Digital Marketing",9000000005,leadl0005@example.com,Y,Consented,SMS,Mid,59,B-Service,New,,26+,High,1,Active
+L0081,Priya Nair,24,Female,Andhra Pradesh,Visakhapatnam,Telugu,Undergraduate,"Digital Marketing, English Speaking, MS Office",9000000081,leadl0081@example.com,Y,Consented,Email,Mid,59,B-Service,Interested,,22-25,High,1,Active
+L0226,Sanjay Das,20,Male,Rajasthan,Jaipur,Hindi,12th Pass,"Digital Marketing, Tally",9000000226,leadl0226@example.com,Y,Consented,Email,Mid,59,D-General,Interested,,18-21,High,1,Active
+L0461,Pranav Verma,27,Male,Punjab,Amritsar,Punjabi,Postgraduate,"Digital Marketing, Healthcare Assistant",9000000461,leadl0461@example.com,Y,Consented,Email,Mid,59,D-General,New,,26+,High,1,Active
+L0131,Manish Das,22,Male,Andhra Pradesh,Kurnool,Telugu,Postgraduate,"Data Entry, Retail",9000000131,leadl0131@example.com,Y,Consented,Call,Mid,58,B-Service,New,,22-25,High,1,Active
+L0240,Sanjay Yadav,24,Male,Kerala,Thrissur,Malayalam,Postgraduate,"Data Entry, Healthcare Assistant",9000000240,leadl0240@example.com,Y,Consented,Call,Mid,58,D-General,New,,22-25,High,1,Active
+L0306,Sneha Jain,21,Female,Odisha,Bhubaneswar,Odia,Diploma,"Customer Support, Data Entry, Sales",9000000306,leadl0306@example.com,Y,Consented,WhatsApp,Mid,58,B-Service,Contacted,,18-21,High,1,Active
+L0319,Ritesh Das,23,Male,Telangana,Nizamabad,Telugu,Undergraduate,"Tally, Web Development",9000000319,leadl0319@example.com,Y,Consented,SMS,High,58,A-Tech,New,,22-25,High,1,Active
+L0339,Ritesh Chatterjee,21,Male,Uttar Pradesh,Kanpur Nagar,Hindi,Undergraduate,"Data Entry, Tally",9000000339,leadl0339@example.com,Y,Consented,WhatsApp,Mid,58,D-General,Registered,,18-21,High,1,Active
+L0347,Siddharth Jain,28,Male,Maharashtra,Nagpur,Marathi,Postgraduate,"Digital Marketing, Electrical, Healthcare Assistant",9000000347,leadl0347@example.com,Y,Consented,Email,Mid,58,D-General,New,,26+,High,1,Active
+L0439,Sakshi Jain,26,Female,Maharashtra,Nashik,Marathi,Postgraduate,"Electrical, Healthcare Assistant, Web Development",9000000439,leadl0439@example.com,Y,Consented,WhatsApp,Mid,58,A-Tech,Registered,,26+,High,1,Active
+L0468,Neha Mehta,27,Female,Bihar,Bhagalpur,Hindi,10th Pass,"Digital Marketing, Healthcare Assistant",9000000468,leadl0468@example.com,Y,Consented,WhatsApp,High,58,D-General,Verified,,26+,High,1,Active
+L0493,Rohan Patel,20,Male,Odisha,Berhampur,Odia,Diploma,"Data Entry, Electrical, Sales",9000000493,leadl0493@example.com,Y,Consented,Email,High,58,B-Service,Verified,,18-21,High,1,Active
+L0205,Pranav Kulkarni,18,Male,Rajasthan,Udaipur,Hindi,Diploma,Sales,9000000205,leadl0205@example.com,Y,Consented,WhatsApp,Mid,57,B-Service,Interested,,18-21,High,1,Active
+L0230,Isha Sharma,19,Female,Rajasthan,Jodhpur,Hindi,12th Pass,"App Development, English Speaking, Retail",9000000230,leadl0230@example.com,Y,Consented,WhatsApp,High,57,B-Service,New,,18-21,High,1,Active
+L0252,Aarav Das,22,Male,West Bengal,Howrah,Bengali,Postgraduate,"Electrical, Web Development",9000000252,leadl0252@example.com,Y,Consented,Call,Mid,57,A-Tech,Interested,,22-25,High,1,Active
+L0316,Pranav Iyer,24,Male,Rajasthan,Ajmer,Hindi,Postgraduate,Retail,9000000316,leadl0316@example.com,Y,Consented,Email,Mid,57,B-Service,New,,22-25,High,1,Active
+L0345,Pooja Chatterjee,23,Female,Uttar Pradesh,Lucknow,Hindi,Postgraduate,Data Entry,9000000345,leadl0345@example.com,Y,Consented,WhatsApp,Mid,57,D-General,Interested,,22-25,High,1,Active
+L0405,Pooja Iyer,21,Female,Bihar,Bhagalpur,Hindi,Postgraduate,Graphic Design,9000000405,leadl0405@example.com,Y,Consented,Email,Mid,57,D-General,New,,18-21,High,1,Active
+L0430,Aditya Chatterjee,22,Male,Gujarat,Rajkot,Gujarati,Undergraduate,"Graphic Design, Tally",9000000430,leadl0430@example.com,Y,Consented,WhatsApp,Mid,57,D-General,Registered,,22-25,High,1,Active
+L0458,Diya Chatterjee,28,Female,Odisha,Rourkela,Odia,Undergraduate,"Retail, Web Development",9000000458,leadl0458@example.com,Y,Consented,WhatsApp,Mid,57,A-Tech,Registered,,26+,High,1,Active
+L0134,Shreya Das,21,Female,West Bengal,North 24 Parganas,Bengali,Postgraduate,"Customer Support, Sales",9000000134,leadl0134@example.com,Y,Consented,Call,Mid,56,B-Service,Contacted,,18-21,High,1,Active
+L0145,Aarav Yadav,26,Male,Odisha,Sambalpur,Odia,12th Pass,"Digital Marketing, Tally",9000000145,leadl0145@example.com,Y,Consented,Call,High,56,D-General,New,,26+,High,1,Active
+L0243,Rohan Sharma,24,Male,Maharashtra,Mumbai Suburban,Marathi,Postgraduate,"Customer Support, Healthcare Assistant",9000000243,leadl0243@example.com,Y,Consented,WhatsApp,Mid,56,B-Service,Enrolled,,22-25,High,1,Active
+L0250,Priya Verma,25,Female,Maharashtra,Aurangabad,Marathi,Postgraduate,Web Development,9000000250,leadl0250@example.com,Y,Consented,Email,High,56,A-Tech,Interested,,22-25,High,1,Active
+L0311,Sakshi Khan,18,Female,Punjab,Amritsar,Punjabi,Undergraduate,"Accounting, Customer Support, Data Entry",9000000311,leadl0311@example.com,Y,Consented,SMS,High,56,B-Service,Registered,,18-21,High,1,Active
+L0393,Vivaan Reddy,27,Male,Odisha,Rourkela,Odia,Postgraduate,"Data Entry, English Speaking, Tally",9000000393,leadl0393@example.com,Y,Consented,Call,Mid,56,B-Service,Interested,,26+,High,1,Active
+L0422,Diya Yadav,25,Female,Punjab,Jalandhar,Punjabi,12th Pass,"App Development, Data Entry",9000000422,leadl0422@example.com,Y,Consented,WhatsApp,High,56,D-General,Registered,,22-25,High,1,Active
+L0026,Sanjay Nair,18,Male,Bihar,Muzaffarpur,Hindi,Undergraduate,"Sales, Tally",9000000026,leadl0026@example.com,Y,Consented,Call,Mid,55,B-Service,Contacted,,18-21,High,1,Active
+L0085,Priya Singh,23,Female,Uttar Pradesh,Varanasi,Hindi,Postgraduate,"Electrical, Python",9000000085,leadl0085@example.com,Y,Consented,Email,Mid,55,A-Tech,New,,22-25,High,1,Active
+L0124,Priya Mehta,23,Female,Kerala,Kozhikode,Malayalam,Undergraduate,"Digital Marketing, Electrical",9000000124,leadl0124@example.com,Y,Consented,Email,Mid,55,D-General,Interested,,22-25,High,1,Active
+L0236,Neha Kulkarni,19,Female,Uttar Pradesh,Agra,Hindi,Postgraduate,"App Development, Digital Marketing, Sales",9000000236,leadl0236@example.com,Y,Consented,Call,Mid,55,A-Tech,New,,18-21,High,1,Active
+L0249,Nikhil Kulkarni,23,Male,Andhra Pradesh,Visakhapatnam,Telugu,12th Pass,"Customer Support, Retail",9000000249,leadl0249@example.com,Y,Consented,Email,High,55,B-Service,Registered,,22-25,High,1,Active
+L0293,Nikhil Mehta,23,Male,Odisha,Berhampur,Odia,Undergraduate,"Digital Marketing, Electrical, Sales",9000000293,leadl0293@example.com,Y,Consented,Email,Mid,55,B-Service,Enrolled,,22-25,High,1,Active
+L0473,Neha Das,28,Female,Telangana,Karimnagar,Telugu,Undergraduate,"Electrical, Tally",9000000473,leadl0473@example.com,Y,Consented,SMS,Mid,55,D-General,New,,26+,High,1,Active
+L0144,Sakshi Khan,23,Female,Tamil Nadu,Tiruchirappalli,Tamil,Undergraduate,"Customer Support, Electrical",9000000144,leadl0144@example.com,Y,Consented,Email,Mid,54,B-Service,New,,22-25,High,1,Active
+L0213,Aditya Verma,20,Male,Karnataka,Belagavi,Kannada,Diploma,"App Development, Digital Marketing, MS Office",9000000213,leadl0213@example.com,Y,Consented,WhatsApp,High,54,A-Tech,New,,18-21,High,1,Active
+L0251,Aditya Patel,23,Male,Tamil Nadu,Tiruchirappalli,Tamil,Undergraduate,"Digital Marketing, Healthcare Assistant",9000000251,leadl0251@example.com,Y,Consented,SMS,Mid,54,D-General,Contacted,,22-25,High,1,Active
+L0299,Priya Yadav,23,Female,Karnataka,Belagavi,Kannada,Postgraduate,App Development,9000000299,leadl0299@example.com,Y,Consented,Email,High,54,A-Tech,Contacted,,22-25,High,1,Active
+L0363,Aditya Patel,26,Male,Karnataka,Hubballi-Dharwad,Kannada,10th Pass,Customer Support,9000000363,leadl0363@example.com,Y,Consented,SMS,High,54,B-Service,New,,26+,High,1,Active
+L0040,Pranav Sharma,21,Male,West Bengal,Kolkata,Bengali,Postgraduate,"Customer Support, Tally",9000000040,leadl0040@example.com,Y,Consented,Email,Mid,53,B-Service,Verified,,18-21,High,1,Active
+L0469,Diya Das,19,Female,Gujarat,Surat,Gujarati,Undergraduate,"Retail, Sales",9000000469,leadl0469@example.com,Y,Consented,Call,Mid,53,B-Service,Contacted,,18-21,High,1,Active
+L0015,Priya Mehta,18,Female,Andhra Pradesh,Visakhapatnam,Telugu,10th Pass,"Digital Marketing, Electrical, Retail",9000000015,leadl0015@example.com,Y,Consented,SMS,High,52,B-Service,Interested,,18-21,High,1,Active
+L0086,Sakshi Jain,22,Female,Odisha,Rourkela,Odia,Diploma,Tally,9000000086,leadl0086@example.com,Y,Consented,WhatsApp,High,52,D-General,New,,22-25,High,1,Active
+L0147,Aarav Nair,23,Male,Kerala,Thiruvananthapuram,Malayalam,Postgraduate,English Speaking,9000000147,leadl0147@example.com,Y,Consented,SMS,High,52,B-Service,Verified,,22-25,High,1,Active
+L0157,Kavya Reddy,23,Female,Gujarat,Rajkot,Gujarati,Undergraduate,Electrical,9000000157,leadl0157@example.com,Y,Consented,SMS,High,52,D-General,Contacted,,22-25,High,1,Active
+L0354,Sanjay Jain,23,Male,Rajasthan,Udaipur,Hindi,Undergraduate,Healthcare Assistant,9000000354,leadl0354@example.com,Y,Consented,WhatsApp,Mid,52,D-General,Contacted,,22-25,High,1,Active
+L0459,Shreya Das,27,Female,Tamil Nadu,Madurai,Tamil,Undergraduate,Digital Marketing,9000000459,leadl0459@example.com,Y,Consented,WhatsApp,Mid,52,D-General,New,,26+,High,1,Active
+L0482,Ritesh Yadav,26,Male,West Bengal,North 24 Parganas,Bengali,Diploma,Sales,9000000482,leadl0482@example.com,Y,Consented,WhatsApp,High,52,B-Service,Verified,,26+,High,1,Active
+L0160,Isha Kulkarni,26,Female,Andhra Pradesh,Visakhapatnam,Telugu,Postgraduate,Healthcare Assistant,9000000160,leadl0160@example.com,Y,Consented,SMS,Mid,51,D-General,New,,26+,High,1,Active
+L0427,Kunal Iyer,28,Male,Tamil Nadu,Madurai,Tamil,10th Pass,"Digital Marketing, Healthcare Assistant",9000000427,leadl0427@example.com,Y,Consented,Email,High,51,D-General,New,,26+,High,1,Active
+L0130,Shreya Iyer,26,Female,Haryana,Rohtak,Hindi,Postgraduate,"Graphic Design, Retail, Sales",9000000130,leadl0130@example.com,Y,Consented,Call,Mid,50,B-Service,Registered,,26+,High,1,Active
+L0152,Nikhil Singh,21,Male,Tamil Nadu,Madurai,Tamil,Diploma,App Development,9000000152,leadl0152@example.com,Y,Consented,Call,High,50,A-Tech,New,,18-21,High,1,Active
+L0368,Isha Jain,21,Female,Uttar Pradesh,Kanpur Nagar,Hindi,12th Pass,Electrical,9000000368,leadl0368@example.com,Y,Consented,SMS,High,50,D-General,Contacted,,18-21,High,1,Active
+L0380,Pranav Nair,26,Male,Uttar Pradesh,Varanasi,Hindi,Undergraduate,"MS Office, Retail",9000000380,leadl0380@example.com,Y,Consented,SMS,High,50,B-Service,Registered,,26+,High,1,Active
+L0044,Sneha Nair,27,Female,Madhya Pradesh,Jabalpur,Hindi,12th Pass,Sales,9000000044,leadl0044@example.com,Y,Consented,Call,High,49,B-Service,Contacted,,26+,High,1,Active
+L0097,Aarav Patel,25,Male,Karnataka,Hubballi-Dharwad,Kannada,Postgraduate,"Digital Marketing, English Speaking",9000000097,leadl0097@example.com,Y,Consented,WhatsApp,High,49,B-Service,Verified,,22-25,High,1,Active
+L0143,Kavya Gupta,24,Female,Andhra Pradesh,Kurnool,Telugu,Diploma,Accounting,9000000143,leadl0143@example.com,Y,Consented,SMS,High,49,D-General,Interested,,22-25,High,1,Active
+L0045,Priya Iyer,20,Female,Karnataka,Mysuru,Kannada,Diploma,"Digital Marketing, Sales",9000000045,leadl0045@example.com,Y,Consented,SMS,High,48,B-Service,New,,18-21,High,1,Active
+L0317,Siddharth Iyer,23,Male,West Bengal,Murshidabad,Bengali,Diploma,"Accounting, Retail",9000000317,leadl0317@example.com,Y,Consented,SMS,High,46,B-Service,Enrolled,,22-25,High,1,Active
+L0451,Aarav Mehta,26,Male,Gujarat,Vadodara,Gujarati,Diploma,"Electrical, English Speaking, Sales",9000000451,leadl0451@example.com,Y,Consented,Call,High,46,B-Service,Contacted,,26+,High,1,Active
+L0090,Aditya Nair,26,Male,Kerala,Kochi,Malayalam,Postgraduate,"MS Office, Python",9000000090,leadl0090@example.com,Y,Consented,WhatsApp,High,44,A-Tech,Enrolled,,26+,High,1,Active
+L0425,Sanjay Verma,18,Male,Kerala,Kochi,Malayalam,Undergraduate,Web Development,9000000425,leadl0425@example.com,Y,Consented,WhatsApp,High,43,A-Tech,New,,18-21,High,1,Active
+L0201,Priya Yadav,27,Female,Tamil Nadu,Madurai,Tamil,Postgraduate,"Electrical, Web Development",9000000201,leadl0201@example.com,Y,Consented,Email,High,42,A-Tech,Contacted,,26+,High,1,Active
+L0382,Riya Mehta,28,Female,Karnataka,Belagavi,Kannada,12th Pass,"Retail, Sales",9000000382,leadl0382@example.com,Y,Consented,WhatsApp,High,42,B-Service,Verified,,26+,High,1,Active
+L0042,Vivaan Khan,28,Male,West Bengal,Kolkata,Bengali,Diploma,Electrical,9000000042,leadl0042@example.com,Y,Consented,Email,High,41,D-General,New,,26+,High,1,Active
+L0428,Isha Jain,24,Female,Bihar,Muzaffarpur,Hindi,Postgraduate,"Customer Support, Web Development",9000000428,leadl0428@example.com,Y,Consented,Call,High,41,A-Tech,Verified,,22-25,High,1,Active
+L0432,Rohan Sharma,21,Male,Uttar Pradesh,Kanpur Nagar,Hindi,Undergraduate,"Accounting, English Speaking, Tally",9000000432,leadl0432@example.com,Y,Consented,Call,High,40,B-Service,Contacted,,18-21,High,1,Active
+L0256,Kunal Kulkarni,28,Male,Madhya Pradesh,Ujjain,Hindi,Postgraduate,Graphic Design,9000000256,leadl0256@example.com,Y,Consented,WhatsApp,High,38,D-General,Interested,,26+,High,1,Active
+L0176,Shreya Nair,26,Female,Gujarat,Rajkot,Gujarati,Postgraduate,Electrical,9000000176,leadl0176@example.com,Y,Consented,Email,High,37,D-General,New,,26+,High,1,Active
