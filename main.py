@@ -10,7 +10,7 @@ df = pd.read_excel("ai_agent_dummy_dataset_500_leads.xlsx")
 
 #Filtering of Data 
 #let take example about bihar 
-bihar_df = df[df["state"] == "Bihar"]  #Declaring specialy for bihar state
+"""bihar_df = df[df["state"] == "Bihar"]  #Declaring specialy for bihar state
 print(bihar_df)
 
 print(bihar_df.shape)
@@ -123,3 +123,8 @@ print(ready_df.to_csv("final_ready_for_outreach.csv", index=False))
 
 
 
+"""
+
+#print(df["current_stage"].value_counts())
+
+print(df["user_status"].value_counts())
