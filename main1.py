@@ -1,16 +1,24 @@
+
+
+# DATA CLEANING PIPELINE
+# Internship AI Agentic Project
+
+
 import pandas as pd
 
+# -----------------------------------------
+# 1. Load Raw Dataset
+# -----------------------------------------
 df = pd.read_excel("ai_agent_dummy_dataset_500_leads.xlsx")
-#print("Dataset Loaded successfully ")
 
-"""print(df.head())          #Gives the header name only 
-print(df.shape)           #Give the size of dataset ()
-print(df.head)           #Give the whole header name 
-print(df.columns)        #Give the whole columns names
-print(df["state"])       #Gives only the whole info about state column
-print(df.loc[0])         #Gives the info about a specific Row"""
+print("Dataset loaded successfully")
+print("Rows:", df.shape[0])
+print("Columns:", df.shape[1])
 
 
+# -----------------------------------------
+# 2. Normalize Column Names
+# -----------------------------------------
 df.columns = (
     df.columns
     .str.strip()
@@ -18,156 +26,115 @@ df.columns = (
     .str.replace(" ", "_")
 )
 
-#Checking for  Duplicated Data 
-#print(df.duplicated().sum())
+print("Column names normalized")
 
 
-# STEP 4: Normalize YES / NO fields
+# -----------------------------------------
+# 3. Duplicate Check (No Removal)
+# -----------------------------------------
+print("Duplicate rows found:", df.duplicated().sum())
+
+
+# -----------------------------------------
+# 4. Normalize YES / NO Fields
+# -----------------------------------------
 yes_no_map = {
     "y": "Y",
     "yes": "Y",
     "true": "Y",
+    "1": "Y",
     "n": "N",
     "no": "N",
-    "false": "N"
+    "false": "N",
+    "0": "N"
 }
 
 df["has_whatsapp"] = (
     df["has_whatsapp"]
     .astype(str)
+    .str.strip()
     .str.lower()
     .map(yes_no_map)
+    .fillna("N")
 )
 
-#print(df.isna().sum())
+print("YES/NO fields normalized")
 
 
-# STEP 5: Handle Missing Values (Logical Defaults)
-df["drop_reason"] = df["drop_reason"].fillna("")
+# -----------------------------------------
+# 5. Handle Missing Values (Safe Defaults)
+# -----------------------------------------
 df["education_level"] = df["education_level"].fillna("Unknown")
 df["state"] = df["state"].fillna("Unknown")
 df["consent_status"] = df["consent_status"].fillna("Not Consented")
+df["drop_reason"] = df["drop_reason"].fillna("")
 
-#print("Missing values after handling:")
-#print(df.isna().sum())
+print("Missing values handled")
 
 
-
-# STEP 6: Age Validation (Eligibility Control)
-
-df = df[df["age"].between(15, 35)]
+# -----------------------------------------
+# 6. Age Cleaning (NO FILTERING)
+# -----------------------------------------
 df["age"] = df["age"].astype(int)
 
-
-# Age group
 df["age_group"] = pd.cut(
     df["age"],
-    bins=[14, 21, 25, 35],
-    labels=["18-21", "22-25", "26+"]
+    bins=[0, 17, 21, 25, 35, 100],
+    labels=["<18", "18-21", "22-25", "26-35", "36+"]
 )
 
-# STEP 8: Drop Reason Segmentation (CORE UPGRADE)
+print("Age cleaned (no rows removed)")
 
-# Preserve raw text
+
+# -----------------------------------------
+# 7. Drop Reason Cleaning (Semantic Prep)
+# -----------------------------------------
 df["drop_reason_raw"] = df["drop_reason"]
 
-# Clean text
 df["drop_reason_clean"] = (
     df["drop_reason_raw"]
-    .str.lower()
+    .astype(str)
     .str.strip()
+    .str.lower()
 )
 
-# Define controlled categories
 drop_reason_map = {
-    "no documents": "Documentation",
-    "missing documents": "Documentation",
-
-    "not interested": "Interest",
-    "lost interest": "Interest",
-
-    "language issue": "Language",
-
-    "financial issue": "Financial",
-
-    "busy": "Follow-up Needed",
-    "call later": "Follow-up Needed",
-
-    "phone switched off": "Contact Issue",
-    "wrong number": "Contact Issue"
+    "no documents": "documentation",
+    "missing documents": "documentation",
+    "not interested": "interest",
+    "lost interest": "interest",
+    "language issue": "language",
+    "financial issue": "financial",
+    "busy": "follow-up needed",
+    "call later": "follow-up needed",
+    "phone switched off": "contact issue",
+    "wrong number": "contact issue"
 }
 
 df["drop_category"] = df["drop_reason_clean"].map(drop_reason_map)
-df["drop_category"] = df["drop_category"].fillna("None")
+
+print("Drop reason standardized (no forced default)")
 
 
-# STEP 9: User Status (Active vs Dropped)
-df["user_status"] = "Active"
-df.loc[df["drop_reason_raw"] != "", "user_status"] = "Dropped"
+# -----------------------------------------
+# 8. User Status (Core Semantic Column)
+# -----------------------------------------
+df["user_status"] = "active"
+df.loc[df["drop_reason_raw"] != "", "user_status"] = "dropped"
 
-# STEP 10: Priority Logic (Business Rules)
-df["priority"] = "Normal"
-
-high_priority_mask = (
-    (df["benefit_score"] >= 7) &
-    (df["has_whatsapp"] == "Y") &
-    (df["consent_status"] == "Consented") &
-    (df["user_status"] == "Active")
-)
-
-df.loc[high_priority_mask, "priority"] = "High"
-
-# Numeric rank for sorting / ML
-df["priority_rank"] = df["priority"].map({
-    "High": 1,
-    "Normal": 0
-})
-
-#print("Priority distribution:")
-#print(df["priority"].value_counts())
-
-# STEP 11: Recovery Strategy Mapping (Agent Brain)
-strategy_map = {
-    "Documentation": "Explain documents + checklist",
-    "Language": "Switch to local language",
-    "Financial": "Highlight free/subsidy benefits",
-    "Follow-up Needed": "Schedule reminder",
-    "Contact Issue": "Try alternate channel",
-    "Interest": "Soft re-engagement",
-    "None": "No action needed"
-}
-
-df["recovery_strategy"] = df["drop_category"].map(strategy_map)
-
-# STEP 12: Dropout Risk (Analytics Layer)
-risk_map = {
-    "Documentation": "Medium",
-    "Language": "Medium",
-    "Financial": "High",
-    "Follow-up Needed": "Low",
-    "Contact Issue": "High",
-    "Interest": "High",
-    "None": "Low"
-}
-
-df["dropout_risk"] = df["drop_category"].map(risk_map)
-
-# STEP 13: Sort for Outreach Priority
-df_sorted = df.sort_values(
-    by=["priority_rank", "benefit_score"],
-    ascending=[False, False]
-)
+print("User status assigned")
 
 
-ready_df = df_sorted[
-    (df_sorted["has_whatsapp"] == "Y") &
-    (df_sorted["consent_status"] == "Consented") &
-    (df_sorted["user_status"] == "Active")
-]
+# -----------------------------------------
+# 9. Final Dataset Check
+# -----------------------------------------
+print("Final dataset shape:", df.shape)
+print(df["user_status"].value_counts())
 
-print("Final outreach dataset shape:", ready_df.shape)
 
+# -----------------------------------------
+# 10. Export Clean Dataset
+# -----------------------------------------
 df.to_csv("clean_full_dataset.csv", index=False)
-ready_df.to_csv("full_final_ready_for_outreach.csv", index=False)
 
-print(" Data cleaning & segmentation pipeline completed successfully.")
+print("Clean dataset saved successfully 🚀")
